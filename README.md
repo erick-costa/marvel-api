@@ -13,3 +13,6 @@ npm install
 ```sh
 npm run dev
 ```
+
+### Publicado na vercel:
+https://marvel-api-topaz.vercel.app/
