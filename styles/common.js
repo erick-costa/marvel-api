@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled, { css } from "styled-components"
 
 const urlImg = (thumb) => `${thumb.path}.${thumb.extension}`
 

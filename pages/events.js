@@ -34,7 +34,7 @@ function Events() {
 
   return (
     <>
-      <Title>Comics</Title>
+      <Title>Events</Title>
       <Container>
         <CardWrapper>
           {events.map((event) => {
